@@ -4,15 +4,23 @@
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
 ### Importance of crucial time delivery
   a. Client satisfaction
+  
   b. Competitive advantage
+  
   c. Cost control
+  
   d. Resource efficiency
 ### How project managers ensure deadlines are met
   a. Clear project scope and requirements
+  
   b.Task prioritization and milestones
+  
   c. Effective planning and scheduling
+  
   d. Risk management
+  
   e. Resource allocation
+  
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
